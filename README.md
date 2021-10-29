@@ -1,5 +1,8 @@
-# weatherApp
+# WeatherApp
+### Check the current weather of a city
+[click to view live](https://weather-mu-one.vercel.app)
 
+![visuals](./assets/screen.gif)
 ## Project setup
 ```
 npm install
